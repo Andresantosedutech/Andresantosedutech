@@ -1,16 +1,15 @@
-### Hi there 👋
+###  boas vindas ao meu perfil
 
-<!--
-**Andresantosedutech/Andresantosedutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é André Aparecido dos Santos
 
-Here are some ideas to get you started:
+- estou estudando na  [Alura](http//www.alura.com.pr)
+- estou desenvolvendo linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voc pode entrar em contato comigo 📫
+
+andre.santos3@escola.pr.gov.br
+
+@andre.santos3280
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAS/naruto.gif)
